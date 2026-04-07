@@ -1,6 +1,6 @@
 ﻿# 简化版 ELIZA 聊天机器人
 
-这是一个使用 Python 编写的简化版 ELIZA 聊天机器人项目。
+根据 https://github.com/datawhalechina/hello-agents char2作业完成的简化版 ELIZA 聊天机器人项目。
 
 ## 项目功能
 
